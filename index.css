@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: #d6e2f0;
+  --grayish-blue: #7b879d;
+  --dark-blue: #1f3251;
+
+  --font-size: 15px;
+
+  --font-family: "Outfit", sans-serif;
+}
+
+body {
+    font-family: var(--font-family);
+}
+
+.text-dark-blue {
+    color: var(--dark-blue);
+}
